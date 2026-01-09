@@ -1,10 +1,8 @@
-package day1;
+package codejava;
 
-public class Floyd {
+public class Sum_of_digit {
 
 	public static void main(String[] args) {
-		
-		
 		
 
 	}
